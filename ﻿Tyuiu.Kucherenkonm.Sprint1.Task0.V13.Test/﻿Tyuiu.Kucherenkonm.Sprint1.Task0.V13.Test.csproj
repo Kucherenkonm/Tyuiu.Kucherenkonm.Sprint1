@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>_﻿Tyuiu.Kucherenkonm.Sprint1.Task0.V13.Test</RootNamespace>
     <LangVersion>latest</LangVersion>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
@@ -13,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.Kucherenkonm.Sprint1.Task0.V7.Lib\Tyuiu.Kucherenkonm.Sprint1.Task0.V13.Lib.csproj" />
+    <ProjectReference Include="..\Tyuiu.Kucherenkonm.Sprint1.Task0.V13.Lib\Tyuiu.Kucherenkonm.Sprint1.Task0.V13.Lib.csproj" />
   </ItemGroup>
 
   <ItemGroup>
