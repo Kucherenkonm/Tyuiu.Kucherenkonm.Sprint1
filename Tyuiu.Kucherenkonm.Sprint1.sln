@@ -5,11 +5,11 @@ VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.Kucherenkonm.Sprint1.Task0.V7", "Tyuiu.Kucherenkonm.Sprint1.Task0.V7\Tyuiu.Kucherenkonm.Sprint1.Task0.V7.csproj", "{6187A6B1-84E1-4EBF-BE19-968411FB6A5E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.Kucherenkonm.Sprint1.Task0.V13", "Tyuiu.Kucherenkonm.Sprint1.Task0.V7\Tyuiu.Kucherenkonm.Sprint1.Task0.V13.csproj", "{6187A6B1-84E1-4EBF-BE19-968411FB6A5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.Kucherenkonm.Sprint1.Task0.V7.Test", "Tyuiu.Kucherenkonm.Sprint1.Task0.V7.Test\Tyuiu.Kucherenkonm.Sprint1.Task0.V7.Test.csproj", "{E8609B41-EF34-4893-A6C8-5818B69A1F92}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.Kucherenkonm.Sprint1.Task0.V13.Test", "Tyuiu.Kucherenkonm.Sprint1.Task0.V7.Test\Tyuiu.Kucherenkonm.Sprint1.Task0.V13.Test.csproj", "{E8609B41-EF34-4893-A6C8-5818B69A1F92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.Kucherenkonm.Sprint1.Task0.V7.Lib", "Tyuiu.Kucherenkonm.Sprint1.Task0.V7.Lib\Tyuiu.Kucherenkonm.Sprint1.Task0.V7.Lib.csproj", "{3332EC77-DFDD-4C96-97C3-490FCADB2FFC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.Kucherenkonm.Sprint1.Task0.V13.Lib", "Tyuiu.Kucherenkonm.Sprint1.Task0.V7.Lib\Tyuiu.Kucherenkonm.Sprint1.Task0.V13.Lib.csproj", "{3332EC77-DFDD-4C96-97C3-490FCADB2FFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
