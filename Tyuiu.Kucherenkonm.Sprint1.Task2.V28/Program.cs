@@ -8,9 +8,9 @@ internal class Program
         Console.Title = "Спринт #1 | Выполнила: Кучеренко Н. М. | ИИПб - 25 - 1";
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #1                                                               *");
-        Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
+        Console.WriteLine("* Тема: Арифметические операторы в C#                                     *");
         Console.WriteLine("* Задание #2                                                              *");
-        Console.WriteLine("* Вариант #28                                                              *");
+        Console.WriteLine("* Вариант #28                                                             *");
         Console.WriteLine("* Выполнила: Кучеренко Надежда Михайловна | ИИПб - 25 - 1                 *");
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* УСЛОВИЕ:                                                                *");

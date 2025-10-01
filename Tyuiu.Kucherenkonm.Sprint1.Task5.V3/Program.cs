@@ -8,7 +8,7 @@ internal class Program
         Console.Title = "Спринт #1 | Выполнила: Кучеренко Н. М. | ИИПб - 25 - 1";
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #1                                                               *");
-        Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
+        Console.WriteLine("* Тема: Преобразование типов и класс Convert                              *");
         Console.WriteLine("* Задание #5                                                              *");
         Console.WriteLine("* Вариант #3                                                              *");
         Console.WriteLine("* Выполнила: Кучеренко Надежда Михайловна | ИИПб - 25 - 1                 *");
